@@ -1,0 +1,6 @@
+openpyxl==3.0.10
+pandas==1.4.3
+secure-smtplib
+tk
+selenium
+webdriver-manager
